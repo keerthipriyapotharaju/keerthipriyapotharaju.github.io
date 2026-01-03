@@ -1,0 +1,11 @@
+.header{
+background-color: rgb(67, 65, 65);
+color: white;
+text-align: center;
+}
+.footer{
+background-color: silver;
+}
+.container{
+margin: 10px;
+}
