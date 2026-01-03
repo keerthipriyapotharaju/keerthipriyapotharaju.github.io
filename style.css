@@ -7,10 +7,19 @@ color: white;
 .footer{
 background-color: silver;
 }
-*{
-margin:10px;
+.container{
+margin:0px;
+}
+#home{
+    margin: 10px;
 }
 .menu{
     display:flex;
     gap: 20px;
+    list-style: none;
+}
+.menu li a{
+    list-style: none;
+    margin: 10px;
+    color: white;
 }
